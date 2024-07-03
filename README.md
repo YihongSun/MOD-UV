@@ -7,4 +7,4 @@ Official PyTorch implementation for the paper: "Learning to Detect and Segment M
 
 ![](assets/teaser.jpg)
 
-## Code Release Coming Soon!
+## Code Release Coming Soon! (Before Oct. 1)
