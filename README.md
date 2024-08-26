@@ -1,5 +1,5 @@
 # MOD-UV: Learning Mobile Object Detectors from Unlabeled Videos
-### [Paper](https://arxiv.org/pdf/2405.14841.pdf) | [arXiv](https://arxiv.org/abs/2405.14841)
+### [Project Page](https://mod-uv.github.io) | [Paper](https://arxiv.org/pdf/2405.14841.pdf) | [arXiv](https://arxiv.org/abs/2405.14841)
 
 Official PyTorch implementation for the ECCV 2024 paper: "MOD-UV: Learning Mobile Object Detectors from Unlabeled Videos".
 
