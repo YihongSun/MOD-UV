@@ -7,4 +7,4 @@ Official PyTorch implementation for the ECCV 2024 paper: "MOD-UV: Learning Mobil
 
 ![](assets/teaser.jpg)
 
-## Code Release Coming Soon! (Before Oct. 1)
+## Code Release Coming Soon! (Before Oct. 4)
