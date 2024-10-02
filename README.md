@@ -96,3 +96,23 @@ To obtain the final detector, please run the following bash script.
 ```
 bash scripts/4_final.sh
 ```
+
+## Citation
+If you find our work useful in your research, please consider citing our paper:
+```
+@inproceedings{sun2024moduv,
+  title={MOD-UV: Learning Mobile Object Detectors from Unlabeled Videos}, 
+  author={Yihong Sun and Bharath Hariharan},
+  booktitle={ECCV},
+  year={2024}
+}
+```
+and related work in learning monocular depth and motion segmentation from unlabeled videos:
+```
+@inproceedings{sun2023dynamodepth,
+  title={Dynamo-Depth: Fixing Unsupervised Depth Estimation for Dynamical Scenes},
+  author={Yihong Sun and Bharath Hariharan},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
