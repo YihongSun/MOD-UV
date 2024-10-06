@@ -16,9 +16,9 @@ conda install pytorch==1.12.1 torchvision==0.13.1 cudatoolkit=11.6 -c pytorch -c
 pip install matplotlib wandb opencv-python tqdm gdown scikit-image scikit-learn imageio pycocotools einops
 ```
 
-Please first use `scripts/0_download_ckpts.sh` for downloading the relevant checkpoints.
+Please first use `scripts/0_download_ckpts.py` for downloading the relevant checkpoints.
 ```
-bash scripts/0_download_ckpts.sh
+python3 scripts/0_download_ckpts.py
 ```
 **Note**: To access the trained model checkpoints on Waymo Open, please fill out the [Google Form](https://forms.gle/gy2SpDSegMLDkm2o7), and [raise an issue](https://github.com/YihongSun/MOD-UV/issues/new) if we don't get back to you in three days. Please note that Waymo open dataset is under strict non-commercial license so we are not allowed to share the model with you if it will used for any profit-oriented activities.
 
