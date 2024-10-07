@@ -68,9 +68,9 @@ MOD-UV/data/waymo/
 
 ### Stage 1: Computing Initial Pseudo-Labels $L^{(0)}$
 
-To obtain the initial pseudo-labels $L^{(0)}$ for training, please run the following bash script to download the precomputed initial pseudo-labels. (Filling out the [Google Form](https://forms.gle/gy2SpDSegMLDkm2o7) for checkpoints would also grant access for the initial pseudo-labels.)
+To obtain the initial pseudo-labels $L^{(0)}$ for training, please run the following script to download the precomputed initial pseudo-labels. (Filling out the [Google Form](https://forms.gle/gy2SpDSegMLDkm2o7) for checkpoints would also grant access for the initial pseudo-labels.)
 ```
-bash scripts/1_download_pseudo_labels.sh
+python3 scripts/1_download_pseudo_labels.py
 ```
 For details in the pseudo-label computations, please refer to the example in [demo.ipynb](demo.ipynb) and implementation in [moduv/pseudo_labels/init_labels.py](moduv/pseudo_labels/init_labels.py).
 
